@@ -1,0 +1,70 @@
+.big-circle {
+    position: fixed;
+    background: radial-gradient(10px,  pink 60%, #7e5e86 400%);
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+}
+
+.middle-circle {
+    position: relative;
+    background: pink;
+    border-radius: 12px;
+    height: 25px;
+    width: 25px;
+    top: 45px;
+    right: 25px;
+    margin-left: 60px;
+}
+
+.middle-circle1 {
+    position: relative;
+    background: red;
+    border-radius: 12px;
+    height: 25px;
+    width: 25px;
+    top: 85px;
+    left: 45px;
+    margin-left: 60px;
+    box-shadow: 0px -0px 10px 10px rgba(21, 0, 255, 0.392); 
+}
+
+.middle-circle2 {
+    position: relative;
+    background: radial-gradient(10px,  pink 10%, #706443 250%);
+    border-radius: 12px;
+    height: 25px;
+    width: 25px;
+    bottom: 50px;
+    left: 160px;
+    box-shadow: 0px -0px 10px 10px rgba(21, 0, 255, 0.392); 
+}
+
+.small-circle {
+    position: relative;
+    background: blue;
+    border-radius: 5px;
+    height: 10px;
+    width: 10px;
+    top: 70px;
+    left: 90px;
+}
+
+.small-circle1 {
+    position: relative;
+    background: blue;
+    border-radius: 5px;
+    height: 10px;
+    width: 10px;
+    top: 45px;
+    left: 135px;
+}
+
+
+
+
+
+
+
+
